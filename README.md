@@ -2,8 +2,11 @@
   <img alt="Astro Theme Cactus logo" src="./gh-assets/astro-cactus-logo.png" width="70" />
 </div>
 <h1 align="center">
-  🚀 Astro Theme Cactus 🌵
+  Deab Labs dotcom
 </h1>
+<h2>
+Built with Astro Theme Cactus 🌵
+</h2>
 
 Astro Theme Cactus is a simple opinionated starter built with the Astro framework. Use it to create an easy-to-use blog or website.
 
