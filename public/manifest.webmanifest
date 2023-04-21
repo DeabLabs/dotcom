@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Deab Labs",
+	"short_name": "DeabLabs",
+	"description": "Exploring Latent Space",
 	"icons": [
 		{
 			"src": "/192x192.png",
