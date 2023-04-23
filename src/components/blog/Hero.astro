@@ -3,7 +3,7 @@ import { getFormattedDate } from "@/utils";
 import type { CollectionEntry } from "astro:content";
 
 interface Props {
-	content: CollectionEntry<"post">;
+	content: CollectionEntry<"post"> | CollectionEntry<"project">;
 }
 
 const { content } = Astro.props;
