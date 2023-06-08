@@ -7,17 +7,12 @@ interface Props extends IElement {
 	withDesc?: boolean;
 }
 
-const { project,  as: Element = "div" } = Astro.props;
+const { project, as: Element = "div" } = Astro.props;
 ---
 
 <Element>
-  <a
-    href={`/projects/${project.slug}`}
-    target="_blank"
-    rel="noopener noreferrer"
-    class="cactus-link inline-block"
-  >
-    {project.data.title}
-  </a>:<br />
-  <p class="inline-block sm:mt-2">{project.data.description}</p>
+	<a href={`/projects/${project.slug}`} rel="noopener noreferrer" class="cactus-link inline-block">
+		{project.data.title}
+	</a>:<br />
+	<p class="inline-block sm:mt-2">{project.data.description}</p>
 </Element>
