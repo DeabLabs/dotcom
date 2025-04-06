@@ -10,4 +10,6 @@ Teno is your Discord assistant. Talk with Teno in a voice call, over text, and w
 Empower Teno with tools that can be activated with your voice, or with a simple command.
 Teno respects your conversations, and will try to blend in with the natural cadence of your conversations.
 
-Teno will be available to Discord servers soon, check back in here or at [teno.chat](https://teno.chat) for more information soon.
+Teno has been archived, and is no longer maintained.
+
+See the [Teno Github repo](https://github.com/deablabs/teno) and [Teno Voice Relay Github repo](https://github.com/deablabs/teno-voice) if interested in checking out the code.
